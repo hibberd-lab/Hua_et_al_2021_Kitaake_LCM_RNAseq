@@ -1,0 +1,27 @@
+Category,cell_type,V1,GeneRatio,FDR,logFDR
+Solute transport,BS,127,0.108269395,8.70E-14,13.0603259
+Protein biosynthesis,BS,82,0.069906223,2.88E-12,11.54056881
+Cellular respiration,BS,25,0.021312873,6.28E-05,4.202217162
+Amino acid metabolism,BS,23,0.019607843,0.002934481,2.532468705
+Metal handling,BS,10,0.008525149,0.004298672,2.366665707
+Nutrient uptake,BS,16,0.013640239,0.006020037,2.220400866
+Polyamine metabolism,BS,6,0.00511509,0.006801193,2.16741493
+Cytoskeleton organisation,BS,25,0.021312873,0.011239098,1.949268523
+Photosynthesis,BS,NA,NA,NA,NA
+Coenzyme metabolism,BS,NA,NA,NA,NA
+Redox homeostasis,BS,11,0.009377664,0.091544128,1.038369509
+Carbohydrate metabolism,BS,20,0.017050298,0.072771617,1.138037973
+Secondary metabolism,M,NA,NA,NA,NA
+Solute transport,M,NA,NA,NA,NA
+Protein biosynthesis,M,NA,NA,NA,NA
+Cellular respiration,M,NA,NA,NA,NA
+Amino acid metabolism,M,NA,NA,NA,NA
+Metal handling,M,NA,NA,NA,NA
+Nutrient uptake,M,NA,NA,NA,NA
+Polyamine metabolism,M,NA,NA,NA,NA
+Cytoskeleton organisation,M,NA,NA,NA,NA
+Photosynthesis,M,133,0.178284182,6.36E-119,118.1966473
+Coenzyme metabolism,M,30,0.040214477,1.78E-11,10.75010724
+Redox homeostasis,M,19,0.025469169,1.62E-08,7.789999574
+Carbohydrate metabolism,M,19,0.025469169,0.00069895,3.155553795
+Secondary metabolism,M,11,0.014745308,0.05341369,1.272347422

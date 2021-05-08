@@ -1,0 +1,25 @@
+Category,count,GeneRatio,FDR,cell_type,logFDR
+Photosynthesis,195,0.112847222,1.83E-63,M,62.73775438
+Coenzyme metabolism,53,0.030671296,1.82E-05,M,4.740990678
+Secondary metabolism,30,0.017361111,0.000141104,M,3.850460928
+Redox homeostasis,33,0.019097222,0.000382539,M,3.417324797
+Carbohydrate metabolism,45,0.026041667,0.002025155,M,2.693541754
+Enzyme classification,93,0.053819444,0.065111242,M,1.186344019
+Protein biosynthesis,NA,NA,NA,M,NA
+Cellular respiration,NA,NA,NA,M,NA
+Solute transport,NA,NA,NA,M,NA
+Phytohormone action,NA,NA,NA,M,NA
+Polyamine metabolism,NA,NA,NA,M,NA
+Nutrient uptake,NA,NA,NA,M,NA
+Photosynthesis,NA,NA,NA,V,NA
+Coenzyme metabolism,NA,NA,NA,V,NA
+Secondary metabolism,NA,NA,NA,V,NA
+Redox homeostasis,NA,NA,NA,V,NA
+Carbohydrate metabolism,NA,NA,NA,V,NA
+Enzyme classification,NA,NA,NA,V,NA
+Protein biosynthesis,148,0.072620216,7.02E-10,V,9.153472571
+Cellular respiration,56,0.02747792,8.04E-07,V,6.094598233
+Solute transport,147,0.072129539,1.46E-05,V,4.836120414
+Phytohormone action,54,0.026496565,0.001845731,V,2.73383166
+Polyamine metabolism,10,0.004906771,0.001940572,V,2.71207016
+Nutrient uptake,19,0.009322866,0.069507772,V,1.157966632

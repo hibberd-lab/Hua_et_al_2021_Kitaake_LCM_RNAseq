@@ -1,0 +1,91 @@
+Category,count,GeneRatio,FDR,cluster
+Photosynthesis,30,0.048939641,2.48E-05,CM
+Coenzyme metabolism,17,0.027732463,0.017154713,CM
+Solute transport,48,0.078303426,0.006091393,CM
+Enzyme classification,NA,NA,NA,CM
+Amino acid metabolism,NA,NA,NA,CM
+Cellular respiration,NA,NA,NA,CM
+Polyamine metabolism,NA,NA,NA,CM
+Carbohydrate metabolism,NA,NA,NA,CM
+Phytohormone action,NA,NA,NA,CM
+Redox homeostasis,NA,NA,NA,CM
+Secondary metabolism,NA,NA,NA,CM
+Nutrient uptake,NA,NA,NA,CM
+Protein biosynthesis,NA,NA,NA,CM
+Cell wall organisation,NA,NA,NA,CM
+Cytoskeleton organisation,NA,NA,NA,CM
+Photosynthesis,NA,NA,NA,CBS
+Coenzyme metabolism,NA,NA,NA,CBS
+Solute transport,48,0.168421053,9.64E-13,CBS
+Enzyme classification,24,0.084210526,0.002409371,CBS
+Amino acid metabolism,10,0.035087719,0.017600901,CBS
+Cellular respiration,NA,NA,NA,CBS
+Polyamine metabolism,3,0.010526316,0.026100771,CBS
+Carbohydrate metabolism,NA,NA,NA,CBS
+Phytohormone action,NA,NA,NA,CBS
+Redox homeostasis,NA,NA,NA,CBS
+Secondary metabolism,NA,NA,NA,CBS
+Nutrient uptake,NA,NA,NA,CBS
+Protein biosynthesis,NA,NA,NA,CBS
+Cell wall organisation,NA,NA,NA,CBS
+Cytoskeleton organisation,NA,NA,NA,CBS
+Photosynthesis,NA,NA,NA,CV
+Coenzyme metabolism,NA,NA,NA,CV
+Solute transport,NA,NA,NA,CV
+Enzyme classification,NA,NA,NA,CV
+Amino acid metabolism,NA,NA,NA,CV
+Cellular respiration,29,0.029835391,0.000338318,CV
+Polyamine metabolism,5,0.005144033,0.032037229,CV
+Carbohydrate metabolism,23,0.023662551,0.032037229,CV
+Phytohormone action,27,0.027777778,0.032037229,CV
+Redox homeostasis,NA,NA,NA,CV
+Secondary metabolism,NA,NA,NA,CV
+Nutrient uptake,NA,NA,NA,CV
+Protein biosynthesis,NA,NA,NA,CV
+Cell wall organisation,NA,NA,NA,CV
+Cytoskeleton organisation,NA,NA,NA,CV
+Photosynthesis,165,0.145246479,8.26E-81,CBS&M
+Coenzyme metabolism,36,0.031690141,7.55E-06,CBS&M
+Solute transport,67,0.058978873,0.092361658,CBS&M
+Enzyme classification,65,0.05721831,0.0014994,CBS&M
+Amino acid metabolism,22,0.019366197,0.056520655,CBS&M
+Cellular respiration,NA,NA,NA,CBS&M
+Polyamine metabolism,NA,NA,NA,CBS&M
+Carbohydrate metabolism,39,0.034330986,1.98E-06,CBS&M
+Phytohormone action,NA,NA,NA,CBS&M
+Redox homeostasis,27,0.023767606,3.70E-06,CBS&M
+Secondary metabolism,23,0.020246479,7.55E-06,CBS&M
+Nutrient uptake,13,0.011443662,0.025448774,CBS&M
+Protein biosynthesis,NA,NA,NA,CBS&M
+Cell wall organisation,NA,NA,NA,CBS&M
+Cytoskeleton organisation,NA,NA,NA,CBS&M
+Photosynthesis,NA,NA,NA,CBS&V
+Coenzyme metabolism,NA,NA,NA,CBS&V
+Solute transport,75,0.073891626,0.0011302,CBS&V
+Enzyme classification,NA,NA,NA,CBS&V
+Amino acid metabolism,NA,NA,NA,CBS&V
+Cellular respiration,27,0.026600985,0.000990885,CBS&V
+Polyamine metabolism,NA,NA,NA,CBS&V
+Carbohydrate metabolism,NA,NA,NA,CBS&V
+Phytohormone action,27,0.026600985,0.027732765,CBS&V
+Redox homeostasis,NA,NA,NA,CBS&V
+Secondary metabolism,NA,NA,NA,CBS&V
+Nutrient uptake,13,0.012807882,0.027542028,CBS&V
+Protein biosynthesis,114,0.112315271,2.35E-20,CBS&V
+Cell wall organisation,26,0.025615764,0.00897828,CBS&V
+Cytoskeleton organisation,24,0.02364532,0.024280988,CBS&V
+Photosynthesis,NA,NA,NA,CM&V
+Coenzyme metabolism,NA,NA,NA,CM&V
+Solute transport,NA,NA,NA,CM&V
+Enzyme classification,NA,NA,NA,CM&V
+Amino acid metabolism,NA,NA,NA,CM&V
+Cellular respiration,NA,NA,NA,CM&V
+Polyamine metabolism,NA,NA,NA,CM&V
+Carbohydrate metabolism,NA,NA,NA,CM&V
+Phytohormone action,NA,NA,NA,CM&V
+Redox homeostasis,NA,NA,NA,CM&V
+Secondary metabolism,NA,NA,NA,CM&V
+Nutrient uptake,NA,NA,NA,CM&V
+Protein biosynthesis,NA,NA,NA,CM&V
+Cell wall organisation,NA,NA,NA,CM&V
+Cytoskeleton organisation,NA,NA,NA,CM&V

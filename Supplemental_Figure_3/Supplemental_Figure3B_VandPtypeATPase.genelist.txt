@@ -1,0 +1,19 @@
+GENEID	Symbol
+LOC_Os10g10500	LOC_Os10g10500 V-type ATPase complex.membrane V0 subcomplex.subunit a
+LOC_Os11g06890	LOC_Os11g06890 V-type ATPase complex.membrane V0 subcomplex.subunit c
+LOC_Os06g45120	LOC_Os06g45120 V-type ATPase complex.peripheral V1 subcomplex.subunit A
+LOC_Os06g37180	LOC_Os06g37180 V-type ATPase complex.peripheral V1 subcomplex.subunit B
+LOC_Os05g51530	LOC_Os05g51530 V-type ATPase complex.peripheral V1 subcomplex.subunit C
+LOC_Os04g55040	LOC_Os04g55040 V-type ATPase complex.peripheral V1 subcomplex.subunit D
+LOC_Os01g46980	LOC_Os01g46980 V-type ATPase complex.peripheral V1 subcomplex.subunit E
+LOC_Os04g51270	LOC_Os04g51270 V-type ATPase complex.peripheral V1 subcomplex.subunit G
+LOC_Os03g08070	LOC_Os03g08070 P-type ATPase superfamily.P1 family.P1B-type heavy metal cation-transporting ATPase (HMA)
+LOC_Os06g47550	LOC_Os06g47550 P-type ATPase superfamily.P1 family.P1B-type heavy metal cation-transporting ATPase (HMA)
+LOC_Os05g02940	LOC_Os05g02940 P-type ATPase superfamily.P2 family.P2A-type calcium cation-transporting ATPase (ECA)
+LOC_Os04g51610	LOC_Os04g51610 P-type ATPase superfamily.P2 family.P2B-type calcium cation-transporting ATPase (ACA)
+LOC_Os12g39660	LOC_Os12g39660 P-type ATPase superfamily.P2 family.P2B-type calcium cation-transporting ATPase (ACA)
+LOC_Os03g10640	LOC_Os03g10640 P-type ATPase superfamily.P2 family.P2B-type calcium cation-transporting ATPase (ACA)
+LOC_Os04g56160	LOC_Os04g56160 P-type ATPase superfamily.P3 family.P3A-type proton-translocating ATPase (AHA)
+LOC_Os12g44150	LOC_Os12g44150 P-type ATPase superfamily.P3 family.P3A-type proton-translocating ATPase (AHA)
+LOC_Os07g09340	LOC_Os07g09340 P-type ATPase superfamily.P3 family.P3A-type proton-translocating ATPase (AHA)
+LOC_Os03g48310	LOC_Os03g48310 P-type ATPase superfamily.P3 family.P3A-type proton-translocating ATPase (AHA)

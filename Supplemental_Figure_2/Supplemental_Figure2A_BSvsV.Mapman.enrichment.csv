@@ -1,0 +1,27 @@
+Category,count,GeneRatio,FDR,cell_type,logFDR
+Photosynthesis,176,0.13990461,8.93E-83,BS,82.04908598
+Carbohydrate metabolism,48,0.038155803,3.39E-09,BS,8.469906925
+Redox homeostasis,27,0.021462639,1.01E-05,BS,4.994330477
+Secondary metabolism,24,0.019077901,1.01E-05,BS,4.994330477
+Solute transport,98,0.077901431,1.01E-05,BS,4.994330477
+Coenzyme metabolism,37,0.029411765,1.26E-05,BS,4.900841475
+Enzyme classification,77,0.061208267,6.51E-05,BS,4.186450452
+Nutrient uptake,17,0.013513514,0.002722979,BS,2.564955782
+Amino acid metabolism,28,0.022257552,0.005377707,BS,2.269402889
+Polyamine metabolism,4,0.00317965,0.088910523,BS,1.051046836
+RNA biosynthesis,NA,NA,NA,BS,NA
+Protein homeostasis,NA,NA,NA,BS,NA
+Lipid metabolism,NA,NA,NA,BS,NA
+Photosynthesis,NA,NA,NA,V,NA
+Carbohydrate metabolism,NA,NA,NA,V,NA
+Redox homeostasis,NA,NA,NA,V,NA
+Secondary metabolism,NA,NA,NA,V,NA
+Solute transport,38,0.057575758,0.014765988,V,1.830737495
+Coenzyme metabolism,NA,NA,NA,V,NA
+Enzyme classification,27,0.040909091,0.011415041,V,1.942522515
+Nutrient uptake,NA,NA,NA,V,NA
+Amino acid metabolism,NA,NA,NA,V,NA
+Polyamine metabolism,4,0.006060606,0.092640092,V,1.03320102
+RNA biosynthesis,48,0.072727273,2.12E-05,V,4.674229467
+Protein homeostasis,43,0.065151515,0.040556442,V,1.391940149
+Lipid metabolism,14,0.021212121,0.052636004,V,1.278717086

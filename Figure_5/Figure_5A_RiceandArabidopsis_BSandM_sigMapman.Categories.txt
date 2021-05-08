@@ -1,0 +1,209 @@
+Category	Gene count	FDR	cell
+Photosynthesis.photophosphorylation	104	1.59E-42	Rice M
+Photosynthesis.calvin cycle	18	2.73E-07	Rice M
+Coenzyme metabolism.tetrapyrrol biosynthesis	17	2.43E-05	Rice M
+Photosynthesis.photorespiration	11	0.000160327	Rice M
+Redox homeostasis.chloroplast redox homeostasis	8	0.00255317	Rice M
+Secondary metabolism.terpenoids	11	0.052114919	Rice M
+Protein biosynthesis.organelle machinery	19	0.084978127	Rice M
+RNA biosynthesis.organelle machinery	NA	NA	Rice M
+Protein biosynthesis.ribosome biogenesis	NA	NA	Rice M
+Protein homeostasis.protein quality control	NA	NA	Rice M
+Protein modification.S-glutathionylation	NA	NA	Rice M
+Lipid metabolism.fatty acid biosynthesis	NA	NA	Rice M
+Protein translocation.chloroplast	NA	NA	Rice M
+Cell wall organisation.cutin and suberin	NA	NA	Rice M
+Enzyme classification.EC_2 transferases	NA	NA	Rice M
+Cell cycle organisation.organelle division	NA	NA	Rice M
+Enzyme classification.EC_1 oxidoreductases	NA	NA	Rice M
+Redox homeostasis.low-molecular-weight scavengers	NA	NA	Rice M
+Redox homeostasis.hydrogen peroxide removal	NA	NA	Rice M
+Phytohormone action.salicylic acid	NA	NA	Rice M
+Chromatin organisation.histones	NA	NA	Rice M
+Nutrient uptake.copper uptake	NA	NA	Rice M
+Lipid metabolism.galactolipid and sulfolipid biosynthesis	NA	NA	Rice M
+Protein biosynthesis.aminoacyl-tRNA synthetase activities	NA	NA	Rice M
+RNA processing.organelle machinery	NA	NA	Rice M
+Coenzyme metabolism.FMN/FAD biosynthesis	NA	NA	Rice M
+Protein modification.protein folding	NA	NA	Rice M
+Protein homeostasis.proteolysis	NA	NA	Rice M
+Solute transport.carrier-mediated transport	NA	NA	Rice M
+Nutrient uptake.sulfur assimilation	NA	NA	Rice M
+Phytohormone action.jasmonic acid	NA	NA	Rice M
+Amino acid metabolism.biosynthesis	NA	NA	Rice M
+Solute transport.channels	NA	NA	Rice M
+Protein biosynthesis.translation initiation	NA	NA	Rice M
+Cell wall organisation.lignin	NA	NA	Rice M
+Cytoskeleton organisation.microfilament network	NA	NA	Rice M
+Nutrient uptake.nitrogen assimilation	NA	NA	Rice M
+RNA processing.RNA chaperone activities	NA	NA	Rice M
+RNA biosynthesis.transcriptional regulation	NA	NA	Rice M
+Amino acid metabolism.degradation	NA	NA	Rice M
+Secondary metabolism.glucosinolates	NA	NA	Rice M
+Cell cycle organisation.cytokinesis	NA	NA	Rice M
+Cytoskeleton organisation.microtubular network	NA	NA	Rice M
+Protein homeostasis.ubiquitin-proteasome system	NA	NA	Rice M
+Chromatin organisation.DNA methylation	NA	NA	Rice M
+Chromatin organisation.chromatin remodeling complexes	NA	NA	Rice M
+Chromatin organisation.histone modifications	NA	NA	Rice M
+Vesicle trafficking.Coat protein I (COPI) coatomer machinery	NA	NA	Rice M
+Phytohormone action.auxin	NA	NA	Rice M
+Carbohydrate metabolism.oxidative pentose phosphate pathway	NA	NA	Rice M
+Multi-process regulation.Target Of Rapamycin (TOR) signalling	NA	NA	Rice M
+RNA processing.mRNA sequestration	NA	NA	Rice M
+Photosynthesis.photophosphorylation	152	6.12E-36	Arabidopsis WL
+Photosynthesis.calvin cycle	34	5.76E-09	Arabidopsis WL
+Coenzyme metabolism.tetrapyrrol biosynthesis	38	2.73E-08	Arabidopsis WL
+Photosynthesis.photorespiration	17	0.000657342	Arabidopsis WL
+Redox homeostasis.chloroplast redox homeostasis	17	0.000176215	Arabidopsis WL
+Secondary metabolism.terpenoids	30	0.010763587	Arabidopsis WL
+Protein biosynthesis.organelle machinery	64	7.06E-07	Arabidopsis WL
+RNA biosynthesis.organelle machinery	37	2.26E-06	Arabidopsis WL
+Protein biosynthesis.ribosome biogenesis	111	1.43E-07	Arabidopsis WL
+Protein homeostasis.protein quality control	49	4.45E-06	Arabidopsis WL
+Protein modification.S-glutathionylation	36	1.79E-05	Arabidopsis WL
+Lipid metabolism.fatty acid biosynthesis	46	2.65E-05	Arabidopsis WL
+Protein translocation.chloroplast	25	0.000657342	Arabidopsis WL
+Cell wall organisation.cutin and suberin	28	0.002042076	Arabidopsis WL
+Enzyme classification.EC_2 transferases	78	0.009121419	Arabidopsis WL
+Cell cycle organisation.organelle division	13	0.013968152	Arabidopsis WL
+Enzyme classification.EC_1 oxidoreductases	84	0.014914929	Arabidopsis WL
+Redox homeostasis.low-molecular-weight scavengers	13	0.015970706	Arabidopsis WL
+Redox homeostasis.hydrogen peroxide removal	14	0.025777662	Arabidopsis WL
+Phytohormone action.salicylic acid	8	0.032823385	Arabidopsis WL
+Chromatin organisation.histones	17	0.03406732	Arabidopsis WL
+Nutrient uptake.copper uptake	10	0.042135003	Arabidopsis WL
+Lipid metabolism.galactolipid and sulfolipid biosynthesis	7	0.042711962	Arabidopsis WL
+Protein biosynthesis.aminoacyl-tRNA synthetase activities	18	0.044636471	Arabidopsis WL
+RNA processing.organelle machinery	34	0.051429178	Arabidopsis WL
+Coenzyme metabolism.FMN/FAD biosynthesis	7	0.054552602	Arabidopsis WL
+Protein modification.protein folding	18	0.071561364	Arabidopsis WL
+Protein homeostasis.proteolysis	67	0.096731092	Arabidopsis WL
+Solute transport.carrier-mediated transport	NA	NA	Arabidopsis WL
+Nutrient uptake.sulfur assimilation	NA	NA	Arabidopsis WL
+Phytohormone action.jasmonic acid	NA	NA	Arabidopsis WL
+Amino acid metabolism.biosynthesis	NA	NA	Arabidopsis WL
+Solute transport.channels	NA	NA	Arabidopsis WL
+Protein biosynthesis.translation initiation	NA	NA	Arabidopsis WL
+Cell wall organisation.lignin	NA	NA	Arabidopsis WL
+Cytoskeleton organisation.microfilament network	NA	NA	Arabidopsis WL
+Nutrient uptake.nitrogen assimilation	NA	NA	Arabidopsis WL
+RNA processing.RNA chaperone activities	NA	NA	Arabidopsis WL
+RNA biosynthesis.transcriptional regulation	NA	NA	Arabidopsis WL
+Amino acid metabolism.degradation	NA	NA	Arabidopsis WL
+Secondary metabolism.glucosinolates	NA	NA	Arabidopsis WL
+Cell cycle organisation.cytokinesis	NA	NA	Arabidopsis WL
+Cytoskeleton organisation.microtubular network	NA	NA	Arabidopsis WL
+Protein homeostasis.ubiquitin-proteasome system	NA	NA	Arabidopsis WL
+Chromatin organisation.DNA methylation	NA	NA	Arabidopsis WL
+Chromatin organisation.chromatin remodeling complexes	NA	NA	Arabidopsis WL
+Chromatin organisation.histone modifications	NA	NA	Arabidopsis WL
+Vesicle trafficking.Coat protein I (COPI) coatomer machinery	NA	NA	Arabidopsis WL
+Phytohormone action.auxin	NA	NA	Arabidopsis WL
+Carbohydrate metabolism.oxidative pentose phosphate pathway	NA	NA	Arabidopsis WL
+Multi-process regulation.Target Of Rapamycin (TOR) signalling	NA	NA	Arabidopsis WL
+RNA processing.mRNA sequestration	NA	NA	Arabidopsis WL
+Photosynthesis.photophosphorylation	NA	NA	Rice BS
+Photosynthesis.calvin cycle	NA	NA	Rice BS
+Coenzyme metabolism.tetrapyrrol biosynthesis	NA	NA	Rice BS
+Photosynthesis.photorespiration	NA	NA	Rice BS
+Redox homeostasis.chloroplast redox homeostasis	NA	NA	Rice BS
+Secondary metabolism.terpenoids	NA	NA	Rice BS
+Protein biosynthesis.organelle machinery	NA	NA	Rice BS
+RNA biosynthesis.organelle machinery	NA	NA	Rice BS
+Protein biosynthesis.ribosome biogenesis	58	5.05E-08	Rice BS
+Protein homeostasis.protein quality control	23	0.000545223	Rice BS
+Protein modification.S-glutathionylation	10	0.056218303	Rice BS
+Lipid metabolism.fatty acid biosynthesis	NA	NA	Rice BS
+Protein translocation.chloroplast	NA	NA	Rice BS
+Cell wall organisation.cutin and suberin	NA	NA	Rice BS
+Enzyme classification.EC_2 transferases	NA	NA	Rice BS
+Cell cycle organisation.organelle division	NA	NA	Rice BS
+Enzyme classification.EC_1 oxidoreductases	NA	NA	Rice BS
+Redox homeostasis.low-molecular-weight scavengers	NA	NA	Rice BS
+Redox homeostasis.hydrogen peroxide removal	NA	NA	Rice BS
+Phytohormone action.salicylic acid	NA	NA	Rice BS
+Chromatin organisation.histones	NA	NA	Rice BS
+Nutrient uptake.copper uptake	NA	NA	Rice BS
+Lipid metabolism.galactolipid and sulfolipid biosynthesis	NA	NA	Rice BS
+Protein biosynthesis.aminoacyl-tRNA synthetase activities	NA	NA	Rice BS
+RNA processing.organelle machinery	NA	NA	Rice BS
+Coenzyme metabolism.FMN/FAD biosynthesis	NA	NA	Rice BS
+Protein modification.protein folding	NA	NA	Rice BS
+Protein homeostasis.proteolysis	NA	NA	Rice BS
+Solute transport.carrier-mediated transport	96	3.89E-12	Rice BS
+Nutrient uptake.sulfur assimilation	4	0.059637115	Rice BS
+Phytohormone action.jasmonic acid	6	0.059637115	Rice BS
+Amino acid metabolism.biosynthesis	21	0.06936724	Rice BS
+Solute transport.channels	18	0.020947744	Rice BS
+Protein biosynthesis.translation initiation	12	0.038250421	Rice BS
+Cell wall organisation.lignin	6	0.056218303	Rice BS
+Cytoskeleton organisation.microfilament network	14	0.056218303	Rice BS
+Nutrient uptake.nitrogen assimilation	7	0.056218303	Rice BS
+RNA processing.RNA chaperone activities	4	0.097636134	Rice BS
+RNA biosynthesis.transcriptional regulation	NA	NA	Rice BS
+Amino acid metabolism.degradation	NA	NA	Rice BS
+Secondary metabolism.glucosinolates	NA	NA	Rice BS
+Cell cycle organisation.cytokinesis	NA	NA	Rice BS
+Cytoskeleton organisation.microtubular network	NA	NA	Rice BS
+Protein homeostasis.ubiquitin-proteasome system	NA	NA	Rice BS
+Chromatin organisation.DNA methylation	NA	NA	Rice BS
+Chromatin organisation.chromatin remodeling complexes	NA	NA	Rice BS
+Chromatin organisation.histone modifications	NA	NA	Rice BS
+Vesicle trafficking.Coat protein I (COPI) coatomer machinery	NA	NA	Rice BS
+Phytohormone action.auxin	NA	NA	Rice BS
+Carbohydrate metabolism.oxidative pentose phosphate pathway	NA	NA	Rice BS
+Multi-process regulation.Target Of Rapamycin (TOR) signalling	NA	NA	Rice BS
+RNA processing.mRNA sequestration	NA	NA	Rice BS
+Photosynthesis.photophosphorylation	NA	NA	Arabidopsis BS
+Photosynthesis.calvin cycle	NA	NA	Arabidopsis BS
+Coenzyme metabolism.tetrapyrrol biosynthesis	NA	NA	Arabidopsis BS
+Photosynthesis.photorespiration	NA	NA	Arabidopsis BS
+Redox homeostasis.chloroplast redox homeostasis	NA	NA	Arabidopsis BS
+Secondary metabolism.terpenoids	NA	NA	Arabidopsis BS
+Protein biosynthesis.organelle machinery	NA	NA	Arabidopsis BS
+RNA biosynthesis.organelle machinery	NA	NA	Arabidopsis BS
+Protein biosynthesis.ribosome biogenesis	NA	NA	Arabidopsis BS
+Protein homeostasis.protein quality control	NA	NA	Arabidopsis BS
+Protein modification.S-glutathionylation	NA	NA	Arabidopsis BS
+Lipid metabolism.fatty acid biosynthesis	NA	NA	Arabidopsis BS
+Protein translocation.chloroplast	NA	NA	Arabidopsis BS
+Cell wall organisation.cutin and suberin	NA	NA	Arabidopsis BS
+Enzyme classification.EC_2 transferases	NA	NA	Arabidopsis BS
+Cell cycle organisation.organelle division	NA	NA	Arabidopsis BS
+Enzyme classification.EC_1 oxidoreductases	NA	NA	Arabidopsis BS
+Redox homeostasis.low-molecular-weight scavengers	NA	NA	Arabidopsis BS
+Redox homeostasis.hydrogen peroxide removal	NA	NA	Arabidopsis BS
+Phytohormone action.salicylic acid	NA	NA	Arabidopsis BS
+Chromatin organisation.histones	NA	NA	Arabidopsis BS
+Nutrient uptake.copper uptake	NA	NA	Arabidopsis BS
+Lipid metabolism.galactolipid and sulfolipid biosynthesis	NA	NA	Arabidopsis BS
+Protein biosynthesis.aminoacyl-tRNA synthetase activities	NA	NA	Arabidopsis BS
+RNA processing.organelle machinery	NA	NA	Arabidopsis BS
+Coenzyme metabolism.FMN/FAD biosynthesis	NA	NA	Arabidopsis BS
+Protein modification.protein folding	NA	NA	Arabidopsis BS
+Protein homeostasis.proteolysis	NA	NA	Arabidopsis BS
+Solute transport.carrier-mediated transport	161	0.00243909	Arabidopsis BS
+Nutrient uptake.sulfur assimilation	10	0.010986681	Arabidopsis BS
+Phytohormone action.jasmonic acid	14	0.025472905	Arabidopsis BS
+Amino acid metabolism.biosynthesis	49	0.006525569	Arabidopsis BS
+Solute transport.channels	NA	NA	Arabidopsis BS
+Protein biosynthesis.translation initiation	NA	NA	Arabidopsis BS
+Cell wall organisation.lignin	NA	NA	Arabidopsis BS
+Cytoskeleton organisation.microfilament network	NA	NA	Arabidopsis BS
+Nutrient uptake.nitrogen assimilation	NA	NA	Arabidopsis BS
+RNA processing.RNA chaperone activities	NA	NA	Arabidopsis BS
+RNA biosynthesis.transcriptional regulation	383	3.80E-07	Arabidopsis BS
+Amino acid metabolism.degradation	27	0.000561138	Arabidopsis BS
+Secondary metabolism.glucosinolates	26	0.001224934	Arabidopsis BS
+Cell cycle organisation.cytokinesis	30	0.00243909	Arabidopsis BS
+Cytoskeleton organisation.microtubular network	42	0.007437334	Arabidopsis BS
+Protein homeostasis.ubiquitin-proteasome system	120	0.043560499	Arabidopsis BS
+Chromatin organisation.DNA methylation	24	0.046433795	Arabidopsis BS
+Chromatin organisation.chromatin remodeling complexes	21	0.054446079	Arabidopsis BS
+Chromatin organisation.histone modifications	38	0.054446079	Arabidopsis BS
+Vesicle trafficking.Coat protein I (COPI) coatomer machinery	21	0.054446079	Arabidopsis BS
+Phytohormone action.auxin	18	0.065486062	Arabidopsis BS
+Carbohydrate metabolism.oxidative pentose phosphate pathway	10	0.066450774	Arabidopsis BS
+Multi-process regulation.Target Of Rapamycin (TOR) signalling	7	0.066450774	Arabidopsis BS
+RNA processing.mRNA sequestration	12	0.096740297	Arabidopsis BS

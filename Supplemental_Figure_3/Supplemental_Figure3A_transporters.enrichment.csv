@@ -1,0 +1,43 @@
+Category,count,GeneRatio,FDR,cluster
+channels.MIP family,NA,NA,NA,CM
+carrier-mediated transport.MFS superfamily,18,0.029363785,0.001995392,CM
+carrier-mediated transport.CDF superfamily,NA,NA,NA,CM
+carrier-mediated transport.IT superfamily,NA,NA,NA,CM
+carrier-mediated transport.MOP superfamily,NA,NA,NA,CM
+carrier-mediated transport.APC superfamily,NA,NA,NA,CM
+primary active transport.V-type ATPase complex,NA,NA,NA,CM
+channels.MIP family,7,0.024561404,3.61E-05,CBS
+carrier-mediated transport.MFS superfamily,9,0.031578947,0.02822037,CBS
+carrier-mediated transport.CDF superfamily,4,0.014035088,0.024018941,CBS
+carrier-mediated transport.IT superfamily,3,0.010526316,0.037661512,CBS
+carrier-mediated transport.MOP superfamily,4,0.014035088,0.041836557,CBS
+carrier-mediated transport.APC superfamily,6,0.021052632,0.086356188,CBS
+primary active transport.V-type ATPase complex,NA,NA,NA,CBS
+channels.MIP family,NA,NA,NA,CV
+carrier-mediated transport.MFS superfamily,NA,NA,NA,CV
+carrier-mediated transport.CDF superfamily,NA,NA,NA,CV
+carrier-mediated transport.IT superfamily,NA,NA,NA,CV
+carrier-mediated transport.MOP superfamily,NA,NA,NA,CV
+carrier-mediated transport.APC superfamily,NA,NA,NA,CV
+primary active transport.V-type ATPase complex,NA,NA,NA,CV
+channels.MIP family,NA,NA,NA,CBS&M
+carrier-mediated transport.MFS superfamily,NA,NA,NA,CBS&M
+carrier-mediated transport.CDF superfamily,NA,NA,NA,CBS&M
+carrier-mediated transport.IT superfamily,NA,NA,NA,CBS&M
+carrier-mediated transport.MOP superfamily,NA,NA,NA,CBS&M
+carrier-mediated transport.APC superfamily,NA,NA,NA,CBS&M
+primary active transport.V-type ATPase complex,NA,NA,NA,CBS&M
+channels.MIP family,NA,NA,NA,CBS&V
+carrier-mediated transport.MFS superfamily,NA,NA,NA,CBS&V
+carrier-mediated transport.CDF superfamily,NA,NA,NA,CBS&V
+carrier-mediated transport.IT superfamily,NA,NA,NA,CBS&V
+carrier-mediated transport.MOP superfamily,NA,NA,NA,CBS&V
+carrier-mediated transport.APC superfamily,16,0.015763547,0.05022668,CBS&V
+primary active transport.V-type ATPase complex,7,0.006896552,0.063099638,CBS&V
+channels.MIP family,NA,NA,NA,CM&V
+carrier-mediated transport.MFS superfamily,NA,NA,NA,CM&V
+carrier-mediated transport.CDF superfamily,NA,NA,NA,CM&V
+carrier-mediated transport.IT superfamily,NA,NA,NA,CM&V
+carrier-mediated transport.MOP superfamily,NA,NA,NA,CM&V
+carrier-mediated transport.APC superfamily,NA,NA,NA,CM&V
+primary active transport.V-type ATPase complex,NA,NA,NA,CM&V
